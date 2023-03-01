@@ -14,9 +14,9 @@ import pytest
     5
     ),
     (
-    4,
     5,
-    9    
+    5,
+    10    
     )
         ],
         ids = ["test_1", "test_2"]
