@@ -1,0 +1,4 @@
+profiling:
+  critical_file_paths:
+    - code/main.py
+  
